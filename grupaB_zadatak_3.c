@@ -18,7 +18,7 @@ int main() {
 }
 
 
-/*
+/* Testiraj s primjerima
 Ulaz:
 2 5
 
